@@ -633,6 +633,7 @@ hr {
   h1.title {
     font-size: 27px;
     margin-top: 15px; 
+    margin-left:10px;
     float: left;
   font-family: 'Source Code Pro', Courier;}
 
