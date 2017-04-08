@@ -97,15 +97,18 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
+  
   background: #0c92bf;
   padding: 15px 25px;
   font-size: 25px;
   height: 25px;
+  float: right;
   line-height: 47px;
   font-weight: bold;
   border-radius: 3px;
   color: white;
   margin-top: 8px;
+  margin-right: 8px;
   text-align: center; }
   .score-container:after, .best-container:after {
     position: absolute;
